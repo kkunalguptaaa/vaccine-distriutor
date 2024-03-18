@@ -1,4 +1,4 @@
-# vaccine-distributor
+# Vaccine Distributor
 # TO Setup - run commands:
 - npm i (to install npm packages).
 - Add a folder config in root directory add variables:
